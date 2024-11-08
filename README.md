@@ -20,4 +20,5 @@ Usage Instructions
     Run the setup command:
 
 cd <path_to_files>
+
 setup.exe /configure Configuration.xml
